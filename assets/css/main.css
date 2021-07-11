@@ -1858,7 +1858,7 @@ button,
     padding: 0 6em 0.1em 6em ;
     margin: 0 auto;
     max-width: 110em;
-  background-color:#f3f2cd; }
+  background-color:#97a7993f; }
     #main > .inner > section {
       padding: 6em 0 4em 0 ;
       border-top: solid 2px rgba(210, 215, 217, 0.75); }
@@ -1900,7 +1900,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #b81c08;
+    color: #ffffff;
     content: '\f002';
     cursor: default;
     display: block;
@@ -1929,7 +1929,7 @@ button,
   -webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-  background-color: #851b0d;
+  background-color: #ffffff;
   font-size: 0.9em;
   position: relative;
   width: 26em; }
@@ -1950,7 +1950,7 @@ button,
         margin-bottom: 0;
         padding-bottom: 0; }
     #sidebar > .inner > .alt {
-  background-color: #851b0d;
+  background-color: #ffffff;
       border-bottom: 0;
       margin: -2.22222em 0 4.44444em -2.22222em;
       padding: 2.22222em;
@@ -2076,7 +2076,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #ac0b0b;
+  border-bottom: solid 5px #46f8e0;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
@@ -2117,7 +2117,7 @@ button,
   display: flex; }
   #banner h1 {
     margin-top: -0.125em; 
-    color:#940606;
+    color:#165706c9;
   font-style: italic;
 font-size: 5em;}
     
@@ -2203,9 +2203,9 @@ font-size: 5em;}
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #eeedb7;
+  color: #141411;
   font-family: "Roboto Slab", serif; 
-  font: #eeedb7;
+  font: #1f1f19;
   font-weight: 400;
   letter-spacing: 0.075em;
   list-style: none;
@@ -2220,7 +2220,7 @@ font-size: 5em;}
     font-size: 0.9em;
     padding: 0.625em 0; }
     #menu ul a:hover, #menu ul span:hover {
-      color: #851b0d; }
+      color: #092c3bc9; }
     #menu ul a.opener, #menu ul span.opener {
       -moz-transition: color 0.2s ease-in-out;
       -webkit-transition: color 0.2s ease-in-out;
@@ -2250,7 +2250,7 @@ font-size: 5em;}
         position: absolute;
         right: 0; }
       #menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-        color: #850707; }
+        color: #9fe1ffc9; }
       #menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
         display: block; }
       #menu ul a.opener.active:before, #menu ul span.opener.active:before {
